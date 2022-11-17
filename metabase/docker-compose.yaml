@@ -1,1 +1,2 @@
-teste metabase
+teste metabase:configs:
+  services:
