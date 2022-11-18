@@ -77,6 +77,14 @@ Orquestração:
 
     - Criar a dag  
 
+    - Criar a Docker network
+
+    - Incluir nos composes a network criada
+
+    - Setup Up no serviço
+
+    - Testar a conexao entre os containers do airflow e do airbyte
+
     - Criar as conexões com o Airbyte através do script  
 
     - Testar a execução do pipeline  
