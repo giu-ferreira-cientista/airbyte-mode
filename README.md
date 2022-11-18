@@ -6,6 +6,8 @@ Tarefas:
 
 Infraestrutura:
 
+- Criar a Docker Network e alterar os composes
+
 - Subir o Airbyte via docker 
 
 - Subir o Airflow via docker 
