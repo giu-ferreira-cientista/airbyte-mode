@@ -50,7 +50,7 @@ config() {
 
   docker-compose run airflow-webserver airflow connections add 'airbyte_example' --conn-uri 'airbyte://host.docker.internal:8000'
   cd ..
-  echo "Config Updated......."
+  echo "Config Updated..."
 }
 
 
